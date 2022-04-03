@@ -1,3 +1,3 @@
 # ML_exercises
 
-Este repositório contém alguns exercícios e estudos sobre Aprendizado de Máquina que realizei. 
+This repository contains some Machine Learning exercises and studies that I did. 
